@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Computer Science and Mathematics || Minor: Astrophysics (2025)
+* B.Sc. Computer Science and Mathematics, minor: Astrophysics (2025)
 
 Work experience
 ======
